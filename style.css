@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(55, 209, 60);
+    color: greenyellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 700px;
+     margin: 0%;
+}

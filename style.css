@@ -8,3 +8,13 @@ display: flex;
      height: 700px;
      margin: 0%;
 }
+
+button { 
+    background-color: palegoldenrod;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.passo {
+    display: flex;
+}
